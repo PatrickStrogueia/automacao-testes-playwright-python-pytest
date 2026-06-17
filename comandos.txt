@@ -5,3 +5,8 @@ playwright install
 Aula 05
 pytest --headed --browser=firefox tests/test_primeiro.py
 pytest --headed --browser=chromium tests/test_primeiro.py
+
+Aula 06
+pytest --browser=chromium
+pip freeze > requirements.txt
+pip install requirements.txt
