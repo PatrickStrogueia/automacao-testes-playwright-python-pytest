@@ -56,3 +56,12 @@ print(codigo)
 print(codigo_texto)
 
 print(codigo == codigo_texto)
+
+"""
+Os principais tipos primitivos de dados são:
+- int
+- float
+- str
+- bool
+- None
+"""
